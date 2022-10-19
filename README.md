@@ -1,6 +1,10 @@
 # sensornetwork
 
-This is an assignment from my Data Structures and Algorithms course in college. Below is the project description and objective. All code should be executable from any IDE and the main function call can be found in SensorNetwork.java
+This is an assignment from my Data Structures and Algorithms course in college. Below is the project description and objective. All code should be executable from any IDE and the main function call can be found in SensorNetwork.java and simply follow the prompts in terminal after running.
+
+A window should appear that visualizes the network that you have generated after giving it the parameters needed in the terminal prompts. 
+
+Description:
 
 Network Model. The IoT sensor network is represented as a graph G(V,E), where V = {1, 2, ..., N} is the set of N nodes, and E is the set of edges. The sensor nodes are randomly generated in an x by y area. All the sensor nodes have the same transmission range Tr. That is, if the distance between two nodes are less than or equal to Tr, then they can communicate directly and are connected by an edge.
 
